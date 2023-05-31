@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ml2pjnBmUuzXJkqUNnH5ZqLgj12fJZzISPNhddGs5wSFTn2dl72Gl2qJ+1pVHABMqYEsAybeJG81Nol1gflRPQ==",
+  "success": true,
+  "projectFilePath": "D:\\UserApp\\UserApp\\src\\UserCRUD\\Application\\UserCRUD.Application.AppData\\UserCRUD.Application.AppData.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Arina\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\Arina\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+D:\UserApp\UserApp\src\UserCRUD\Contracts\UserCRUD.Contracts\bin\Debug\net6.0\UserCRUD.Contracts.deps.json
+D:\UserApp\UserApp\src\UserCRUD\Contracts\UserCRUD.Contracts\bin\Debug\net6.0\UserCRUD.Contracts.dll
+D:\UserApp\UserApp\src\UserCRUD\Contracts\UserCRUD.Contracts\bin\Debug\net6.0\UserCRUD.Contracts.pdb
+D:\UserApp\UserApp\src\UserCRUD\Contracts\UserCRUD.Contracts\obj\Debug\net6.0\UserCRUD.Contracts.csproj.AssemblyReference.cache
+D:\UserApp\UserApp\src\UserCRUD\Contracts\UserCRUD.Contracts\obj\Debug\net6.0\UserCRUD.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\UserApp\UserApp\src\UserCRUD\Contracts\UserCRUD.Contracts\obj\Debug\net6.0\UserCRUD.Contracts.AssemblyInfoInputs.cache
+D:\UserApp\UserApp\src\UserCRUD\Contracts\UserCRUD.Contracts\obj\Debug\net6.0\UserCRUD.Contracts.AssemblyInfo.cs
+D:\UserApp\UserApp\src\UserCRUD\Contracts\UserCRUD.Contracts\obj\Debug\net6.0\UserCRUD.Contracts.csproj.CoreCompileInputs.cache
+D:\UserApp\UserApp\src\UserCRUD\Contracts\UserCRUD.Contracts\obj\Debug\net6.0\UserCRUD.Contracts.dll
+D:\UserApp\UserApp\src\UserCRUD\Contracts\UserCRUD.Contracts\obj\Debug\net6.0\refint\UserCRUD.Contracts.dll
+D:\UserApp\UserApp\src\UserCRUD\Contracts\UserCRUD.Contracts\obj\Debug\net6.0\UserCRUD.Contracts.pdb
+D:\UserApp\UserApp\src\UserCRUD\Contracts\UserCRUD.Contracts\obj\Debug\net6.0\ref\UserCRUD.Contracts.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "UserCRUD.Contracts/1.0.0": {
+        "runtime": {
+          "UserCRUD.Contracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UserCRUD.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

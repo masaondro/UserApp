@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "v1FzzrJKdSzpIN4NtalOi+Z1vn1cGq6J1sChUat2Qvs=",
+  "Source": "UserCRUD.Host.Api",
+  "BasePath": "_content/UserCRUD.Host.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

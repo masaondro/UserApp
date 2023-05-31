@@ -1,0 +1,12 @@
+D:\UserApp\UserApp\src\UserCRUD\Domain\UserCRUD.Domain\bin\Debug\net6.0\UserCRUD.Domain.deps.json
+D:\UserApp\UserApp\src\UserCRUD\Domain\UserCRUD.Domain\bin\Debug\net6.0\UserCRUD.Domain.dll
+D:\UserApp\UserApp\src\UserCRUD\Domain\UserCRUD.Domain\bin\Debug\net6.0\UserCRUD.Domain.pdb
+D:\UserApp\UserApp\src\UserCRUD\Domain\UserCRUD.Domain\obj\Debug\net6.0\UserCRUD.Domain.csproj.AssemblyReference.cache
+D:\UserApp\UserApp\src\UserCRUD\Domain\UserCRUD.Domain\obj\Debug\net6.0\UserCRUD.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\UserApp\UserApp\src\UserCRUD\Domain\UserCRUD.Domain\obj\Debug\net6.0\UserCRUD.Domain.AssemblyInfoInputs.cache
+D:\UserApp\UserApp\src\UserCRUD\Domain\UserCRUD.Domain\obj\Debug\net6.0\UserCRUD.Domain.AssemblyInfo.cs
+D:\UserApp\UserApp\src\UserCRUD\Domain\UserCRUD.Domain\obj\Debug\net6.0\UserCRUD.Domain.csproj.CoreCompileInputs.cache
+D:\UserApp\UserApp\src\UserCRUD\Domain\UserCRUD.Domain\obj\Debug\net6.0\UserCRUD.Domain.dll
+D:\UserApp\UserApp\src\UserCRUD\Domain\UserCRUD.Domain\obj\Debug\net6.0\refint\UserCRUD.Domain.dll
+D:\UserApp\UserApp\src\UserCRUD\Domain\UserCRUD.Domain\obj\Debug\net6.0\UserCRUD.Domain.pdb
+D:\UserApp\UserApp\src\UserCRUD\Domain\UserCRUD.Domain\obj\Debug\net6.0\ref\UserCRUD.Domain.dll
